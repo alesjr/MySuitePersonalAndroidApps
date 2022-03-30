@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="navigation_drawer_close">Fechar menu lateral</string>
+    <string name="nav_header_desc">Cabeçalho</string>
+    <string name="action_settings">Configurações</string>
+    <string name="navigation_drawer_open">Abrir menu lateral</string>
+    <string name="menu_gallery">Galeria</string>
+</resources>

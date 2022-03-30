@@ -3,7 +3,9 @@ package com.example.blocknumbercall.Core.Infrastructure.ViewModel;
 import androidx.lifecycle.MutableLiveData;
 import androidx.lifecycle.ViewModel;
 
-public class HomeViewModel extends ViewModel {
+import com.example.blocknumbercall.Core.Application.ViewModel.ViewModelInterface;
+
+public class HomeViewModel extends ViewModel implements ViewModelInterface {
     private final MutableLiveData<String> liveData;
 
     public HomeViewModel() {
